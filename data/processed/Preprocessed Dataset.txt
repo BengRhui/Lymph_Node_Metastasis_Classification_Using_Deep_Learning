@@ -1,0 +1,9 @@
+After running the Jupyter notebook (01_eda_and_data_preparation.ipynb), there will be seven files, namely:
+
+train_sub70000_x.npy
+train_sub70000_y.npy
+valid_full_x.npy
+valid_full_y.npy
+test_full_x.npy
+test_full_y.npy
+channel_stats.npz

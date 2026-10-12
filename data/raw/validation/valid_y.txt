@@ -1,0 +1,3 @@
+This is the valid_y dataset (validation set with label).
+
+Download the PCam dataset from here: https://patchcamelyon.grand-challenge.org

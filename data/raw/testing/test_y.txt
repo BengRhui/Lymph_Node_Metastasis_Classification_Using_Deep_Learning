@@ -1,0 +1,3 @@
+This is the test_y dataset (test set with label).
+
+Download the PCam dataset from here: https://patchcamelyon.grand-challenge.org
