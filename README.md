@@ -59,4 +59,4 @@ The project applies deep learning techniques to histopathological image classifi
 ## Documentation
 
 The project report that documents the dataset selection, preprocessing methodology, model architectures, training procedures, 
-hyperparameter optimisation, and experimental results, can be viewed [here]().
+hyperparameter optimisation, and experimental results, can be viewed [here](https://github.com/BengRhui/Lymph_Node_Metastasis_Classification_Using_Deep_Learning/blob/438a6f8ec2e2c84216b9a9574d76fbaef6f4aa1c/report/ODL%20Report.pdf).
